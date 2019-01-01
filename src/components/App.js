@@ -5,7 +5,12 @@ class App extends React.Component {
 
   render () {
     return (
-      <div>
+      <div className="App" style={
+        {
+          height: '1500px',
+          background: 'cornflowerblue'
+        }
+      }>
         < Header />
       </div>
     );
