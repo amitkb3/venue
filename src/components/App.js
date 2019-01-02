@@ -1,6 +1,7 @@
 import React from 'react';
 import '../resources/styles.css';
 import Header from '../components/header_footer/Header';
+import Featured from '../components/featured';
 class App extends React.Component {
 
   render () {
@@ -12,6 +13,7 @@ class App extends React.Component {
         }
       }>
         < Header />
+        < Featured />
       </div>
     );
 
