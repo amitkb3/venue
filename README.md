@@ -2,7 +2,7 @@
 
 This app was developed based on the training from Udemy Course [The React practice course, learn by building projects](https://www.udemy.com/the-react-practice-course-learn-by-building-projects/) taught by Coding Revolution.
 
-The app is deployed using surge at [TheVenue](VenueApp.surge.sh)
+The app is deployed using surge at [TheVenue](www.VenueApp.surge.sh)
 
 ### User Stories
 
